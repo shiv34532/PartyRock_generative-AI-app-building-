@@ -1,3 +1,5 @@
+App link:https://partyrock.aws/u/shoker/z-QZj6hY0/StudyFlow%253A-Your-Personal-Academic-Coach
+
 PartyRock_generative-AI-app-building-
 Practical AI project demonstrating prompt engineering, responsible AI, and AWS generative AI concepts.
 Generative AI project built with AWS PartyRock during the AWS AI Practitioner Challenge by Udacity.
