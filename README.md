@@ -1,4 +1,4 @@
-# PartyRock_generative-AI-app-building-
+PartyRock_generative-AI-app-building-
 Practical AI project demonstrating prompt engineering, responsible AI, and AWS generative AI concepts.
 Generative AI project built with AWS PartyRock during the AWS AI Practitioner Challenge by Udacity.
 StudyFlow is a next-generation academic coaching tool that leverages the power of generative AI 
@@ -312,6 +312,22 @@ After each session, log:
   ✅ What to review next time
 
 
+## Screenshots
+
+### Home Screen
+![Home Screen]<img width="1836" height="922" alt="Home Screen" src="https://github.com/user-attachments/assets/7bbb6d8f-acd1-41a8-831a-b526a7f4f227" />
+
+
+### Sample Input
+![Sample Input]<img width="1392" height="757" alt="Sample Input" src="https://github.com/user-attachments/assets/c239690c-aaaf-4c61-9e8b-48341ba7f99c" />
+
+
+### Generated Output
+![Generated Output]<img width="1607" height="722" alt="Generated Output" src="https://github.com/user-attachments/assets/e45bb5f5-3833-46dd-843b-051c1427500b" />
+
+
+### Project Overview
+![Project Overview]<img width="1877" height="902" alt="Project Overview" src="https://github.com/user-attachments/assets/11b227ce-eec9-4805-b9dd-00533a03ba7b" />
 
 
 
